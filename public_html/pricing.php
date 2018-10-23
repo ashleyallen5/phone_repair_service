@@ -33,49 +33,7 @@
 		<header>
 			
 
-			<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-  <a class="navbar-brand" href="#"><b>SimpCo Phone Company</b></a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-
-  <div class="collapse navbar-collapse" id="navbarColor01">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item">
-        <a class="btn btn-primary" href="index.html" role="button">Home</a>
-      </li>
-
-      <li class="nav-item active">
-        <a class="btn btn-primary disabled" href="pricing.html" role="button" aria-disabled="true">Pricing <span class="sr-only">(current)</span></a>
-      </li>
-
-      <li class="nav-item">
-        <a class="btn btn-primary" href="schedule.html" role="button">Schedule</a>
-      </li>
-
-      <li class="nav-item">
-        <a class="btn btn-primary" href="contact.html" role="button">Contact Us</a>
-      </li>
-
-      <li class="nav-item">
-        <a class="btn btn-primary" href="locations.html" role="button">Our Locations</a>
-      </li>
-
-      <li class="nav-item">
-        <a class="btn btn-primary" href="about.html" role="button">About Us</a>
-      </li>
-
-    
-
-    </ul>
-
-    <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="text" placeholder="Search">
-      <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
-    </form>
-
-  </div>
-</nav>
+<?php include '../resources/navigation.php'; ?>
 
 			<!--<nav id="menu">
 				<a href="index.html">Home</a>
@@ -222,9 +180,7 @@
 		</div>
 	<p style="text-align:center;">If you have any questions, please feel free to <a class="btn btn-primary" href="contact.html" role="button">Contact Us</a>. We would love to answer any questions you may have!</p>
 
-		<footer>
-			<h3 style="font-size:12px;text-align:center">© 2018 Simp. CO. Phone Repair. Trademarks and brands are the property of their respective owners</h3>
-		</footer>
+	<?php include '../resources/footer.php'; ?>
 
 		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
