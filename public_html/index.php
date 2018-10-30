@@ -46,23 +46,23 @@
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="pricing.html">Pricing</a>
+            <a class="nav-link" href="pricing.php">Pricing</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="schedule.html">Schedule</a>
+            <a class="nav-link" href="schedule.php">Schedule</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="contact.html">Contact</a>
+            <a class="nav-link" href="contact.php">Contact</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="locations.html">Locations</a>
+            <a class="nav-link" href="locations.php">Locations</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="about.html">About Us</a>
+            <a class="nav-link" href="about.php">About Us</a>
           </li>
 
           <li class="nav-item dropdown">
@@ -104,7 +104,7 @@
 		<div class="jumbotron jumbotron-fluid">
   			<div class="container">
     			<div style="border-style:solid; border-width:5px;text-align:center;border-margin:3px;">
-  			<h1>Welcome to Ashley and Noah's Phone Repair Shop! <img src="img/content/logo.png" alt="SC PR" /></h1>
+  			<h1>Welcome to Haley and Noah's Phone Repair Shop! <img src="img/content/logo.png" alt="SC PR" /></h1>
     			<p><em>Simpson College founded Phone Repair Shop</em></p>
     			</div>
   			</div>
